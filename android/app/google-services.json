@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "939954730010",
+    "firebase_url": "https://wingsandthingspizza-4d6fc-default-rtdb.firebaseio.com",
+    "project_id": "wingsandthingspizza-4d6fc",
+    "storage_bucket": "wingsandthingspizza-4d6fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939954730010:android:2a408d63814ba4e1c00da3",
+        "android_client_info": {
+          "package_name": "com.innovation_solution.pizza_vendor_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939954730010-217263fgk1p6qgf5vqrn6dkf70mntk06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innovation_solution.pizza_vendor_admin",
+            "certificate_hash": "cf7aa91dd80e4e8faa1aa931ec687b6b3792a53b"
+          }
+        },
+        {
+          "client_id": "939954730010-moi8h9b8jd43udhvjtijg5uvmc2p90eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuRssZRUsL5hOjrmJN214u0XPsiBAQDU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939954730010-moi8h9b8jd43udhvjtijg5uvmc2p90eb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939954730010-p4q3v514csamfcqg0vctqgfn22rkcibk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pizzaUserApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939954730010:android:f2d0cb9c5979a35cc00da3",
+        "android_client_info": {
+          "package_name": "com.inovation.pizza_vendor_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939954730010-moi8h9b8jd43udhvjtijg5uvmc2p90eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuRssZRUsL5hOjrmJN214u0XPsiBAQDU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939954730010-moi8h9b8jd43udhvjtijg5uvmc2p90eb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939954730010-p4q3v514csamfcqg0vctqgfn22rkcibk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pizzaUserApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939954730010:android:18f1e100af250b94c00da3",
+        "android_client_info": {
+          "package_name": "com.inovation.wings_pizza_things"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939954730010-moi8h9b8jd43udhvjtijg5uvmc2p90eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuRssZRUsL5hOjrmJN214u0XPsiBAQDU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939954730010-moi8h9b8jd43udhvjtijg5uvmc2p90eb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939954730010-p4q3v514csamfcqg0vctqgfn22rkcibk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pizzaUserApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
